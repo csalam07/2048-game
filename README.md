@@ -24,7 +24,7 @@ You can turn off the music and sound effects from the home page and also choose 
   
 ## Contributing
 
-Contributions are always welcome!
+Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch. If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
 This repo is open for Hacktoberfest PRs. 
 
@@ -35,7 +35,7 @@ See `contributing.md` for ways to get started.
   
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+2048 is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
   
 ## 🔗 Links
