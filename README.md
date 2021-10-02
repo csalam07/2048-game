@@ -26,7 +26,7 @@ You can turn off the music and sound effects from the home page and also choose 
 
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch. If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
-This repo is open for Hacktoberfest PRs. 
+This repo is open for [Hacktoberfest](https://hacktoberfest.digitalocean.com) PRs. 
 
 See `contributing.md` for ways to get started.
 
